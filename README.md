@@ -1,4 +1,5 @@
-## Hi there 👋
+Hi there 👋, I'm Olubiyi Oluwaseyi Susannah a software Engineer
+- 🔭 I’m currently working on a telemedic mobile app using flutter
 
 <!--
 **susannaholubiyi/susannaholubiyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
